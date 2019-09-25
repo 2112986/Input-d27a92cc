@@ -1,0 +1,26 @@
+h1 {
+    font-size: 300%;
+			}
+//ul { font-size: color: }
+			
+//ol {font-size: color: }
+
+//h3 {font-size: color: }
+
+//body {background-color: }
+
+//img {}
+	
+			
+
+
+
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+			}
+
+input,
+label {
+    margin: .4rem 0;
+			}
